@@ -13,4 +13,4 @@ cpgx 網站: https://cpgx.kmol.info
  
 投影片:
 
-網誌:
+網誌:https://mdecp2018.github.io/site-s40723221/blog/index.html
