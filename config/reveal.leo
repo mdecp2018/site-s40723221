@@ -24,6 +24,9 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181029144213.1" a="E"><vh>投影片w1</vh>
+<v t="leo.20181029144213.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -124,7 +127,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## s40723221 分組網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -325,6 +328,21 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181029144213.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181029144213.2">## s40723221投影片
+* http和https重要性
+
+
+
 </t>
 </tnodes>
 </leo_file>
