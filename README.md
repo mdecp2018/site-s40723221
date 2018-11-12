@@ -14,3 +14,5 @@ cpgx 網站: https://cpgx.kmol.info
 投影片:https://mdecp2018.github.io/site-s40723221/reveal/index.html#/
 
 網誌:https://mdecp2018.github.io/site-s40723221/blog/index.html
+
+期末分組網站網址:https://mdecp2018.github.io/finalproject-bg5/content/index.html
