@@ -2,8 +2,8 @@
   position: relative;
 }
 header{
-  
-  padding: 80px;
+  background: #ccc;
+  padding: 20px;
 }
 confmenu
 {
@@ -201,7 +201,6 @@ background-color: white;
 width: 195px;
 }
 body {
-	 background-image:(background: #333);
   margin-bottom: 120px;
 }
 
