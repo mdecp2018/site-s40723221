@@ -644,9 +644,9 @@ heroku動態分組網站網址:https://cp2018-bg5.herokuapp.com/
 						
 </t>
 <t tx="leo.20190108130527.2">## 補課一
-
-
-
+*  控制流程和loop應用
+講解了for i in range的應用和
+補充了:同類型迴圈中有同類型迴圈時我們稱作巢狀,例如:[[]]的類型中括號內已while迴圈定義時我們稱作巢狀。
 
 </t>
 <t tx="leo.20190108130529.1">&lt;section data-markdown&gt;
@@ -659,9 +659,9 @@ heroku動態分組網站網址:https://cp2018-bg5.herokuapp.com/
 						
 </t>
 <t tx="leo.20190108130529.2">## 補課二
-
-
-
+*  物件導向及非物件導向
+物件導向中的類別:通常含有封裝性 (Encapsulation),繼承, (Inheritance)多形 (Polymorphism),抽象性 (Abstraction)等特性。
+非物件導向中的類別:包含變數 (Variable)函式 (Function)
 
 </t>
 <t tx="leo.20190108130530.1">&lt;section data-markdown&gt;
@@ -674,8 +674,8 @@ heroku動態分組網站網址:https://cp2018-bg5.herokuapp.com/
 						
 </t>
 <t tx="leo.20190108130530.2">## 補課三
-
-
+*  複製與參照
+def和class中不能夠呼叫外部物件例如:時間time = time()若要呼叫則必須使用global才行。
 
 
 </t>
