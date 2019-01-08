@@ -427,7 +427,7 @@ github:https://github.com/
 </t>
 <t tx="leo.20190108130436.2">## week2
 * 使用sharex並且加以錄製
-了解sharex的基本功能能夠錄製gif或者影片檔
+了解sharex的基本功能並且能夠錄製gif或者影片檔
 
 
 
@@ -442,8 +442,9 @@ github:https://github.com/
 						
 </t>
 <t tx="leo.20190108130438.2">## week3
-
-
+*運用git指令
+運用所學到之git指令達到推送，回到上一個版本提交等等功能
+並且熟習這些功能
 
 
 </t>
