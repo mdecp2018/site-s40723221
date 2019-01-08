@@ -458,7 +458,7 @@ github:https://github.com/
 						
 </t>
 <t tx="leo.20190108130505.2">## week4
-# windows
+* windows
 windows7生命週期的結束也迎來了windows10的興盛，windows7再過了 2020 年 1 月 14日之後就無法再更新，這也意味著安全性沒有保障，在網路中存在的病毒日日都在更新，windows的更新程度若沒有跟上會導致資料外洩的危險
 
 
@@ -474,7 +474,7 @@ windows7生命週期的結束也迎來了windows10的興盛，windows7再過了 
 						
 </t>
 <t tx="leo.20190108130507.2">## week5
-# 更改網誌
+* 更改網誌
 https://youtu.be/3MgUkv3XsUI
 
 
@@ -490,7 +490,7 @@ https://youtu.be/3MgUkv3XsUI
 						
 </t>
 <t tx="leo.20190108130508.2">## week6
-# reveal和git
+* reveal和git
 更新reveal和精熟git的用法和版本回推的知識
 </t>
 <t tx="leo.20190108130509.1">&lt;section data-markdown&gt;
@@ -503,7 +503,7 @@ https://youtu.be/3MgUkv3XsUI
 						
 </t>
 <t tx="leo.20190108130509.2">## week7
-# 網誌和遠端之概念
+* 網誌和遠端之概念
 如何去開啟編輯網誌的檔案和開啟遠端的方式。
 遠端由近端8443所推送後經由git add . git commit git push後得到遠端8444之資料。
 
@@ -519,7 +519,7 @@ https://youtu.be/3MgUkv3XsUI
 						
 </t>
 <t tx="leo.20190108130511.2">## week8
-# github發生問題改用fossil最為備案
+* github發生問題改用fossil做為備案
 fossil官方網站：https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki
 
 
@@ -535,7 +535,9 @@ fossil官方網站：https://www.fossil-scm.org/index.html/doc/trunk/www/index.w
 						
 </t>
 <t tx="leo.20190108130512.2">## week10
-
+* 分組並學習eric6
+eric6之操作:由學長指導如何將eric6之進度條與github結合。
+eric6操作參考網址:https://blog.csdn.net/TST_STUDIO/article/details/78235468
 
 
 
@@ -550,7 +552,10 @@ fossil官方網站：https://www.fossil-scm.org/index.html/doc/trunk/www/index.w
 						
 </t>
 <t tx="leo.20190108130517.2">## week11
-
+*  heroku
+heroku與github連接與使用heroku在動態網頁上能夠修改資訊
+heroku與github連接必須在github中加入兩項文字檔和一個資料檔分別為:runtime.txt、procfile、requirements.txt
+heroku動態分組網站網址:https://cp2018-bg5.herokuapp.com/
 
 
 
