@@ -552,8 +552,7 @@ eric6操作參考網址:https://blog.csdn.net/TST_STUDIO/article/details/7823546
 						
 </t>
 <t tx="leo.20190108130517.2">## week11
-*  heroku
-heroku與github連接與使用heroku在動態網頁上能夠修改資訊
+*  heroku與github連接與使用heroku在動態網頁上能夠修改資訊
 heroku與github連接必須在github中加入兩項文字檔和一個資料檔分別為:runtime.txt、procfile、requirements.txt
 heroku動態分組網站網址:https://cp2018-bg5.herokuapp.com/
 
@@ -570,8 +569,9 @@ heroku動態分組網站網址:https://cp2018-bg5.herokuapp.com/
 						
 </t>
 <t tx="leo.20190108130520.2">## week12
-
-
+*  遊戲的軟體之參考
+以python搭配brython之語法做為日後使用之工具。
+以brython之用法叫我們沒有學習過語法的人來說較為容易吸收並且使用。
 
 
 </t>
@@ -585,8 +585,9 @@ heroku動態分組網站網址:https://cp2018-bg5.herokuapp.com/
 						
 </t>
 <t tx="leo.20190108130521.2">## week13
-
-
+*  python遊戲範例
+更改了重力加速度之公式並且增加了移動的向量。
+使球能夠更加多樣的方式移動。
 
 
 </t>
@@ -600,10 +601,9 @@ heroku動態分組網站網址:https://cp2018-bg5.herokuapp.com/
 						
 </t>
 <t tx="leo.20190108130523.2">## week14
-
-
-
-
+*  本周進度和如何改變password
+加入新的password使其能夠在打入hellow world時顯示出hellow world之圖示
+在進度方面思考加入y軸的定向使其能夠再碰至y軸邊框時反彈。
 </t>
 <t tx="leo.20190108130524.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -615,9 +615,9 @@ heroku動態分組網站網址:https://cp2018-bg5.herokuapp.com/
 						
 </t>
 <t tx="leo.20190108130524.2">## week15
-
-
-
+*  思考如何運用非彈性公式
+導入非彈性公式的概念並且加入專題中
+加入迴圈使得程式碼更加得簡潔減少失誤的發生。
 
 </t>
 <t tx="leo.20190108130526.1">&lt;section data-markdown&gt;
@@ -630,8 +630,8 @@ heroku動態分組網站網址:https://cp2018-bg5.herokuapp.com/
 						
 </t>
 <t tx="leo.20190108130526.2">## week16
-
-
+*  球與地板間發生彈力
+加入y軸碰撞時距離得減少，及x軸移動的方向使其達成碰撞效果。
 
 </t>
 <t tx="leo.20190108130527.1">&lt;section data-markdown&gt;
