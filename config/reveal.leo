@@ -30,6 +30,57 @@
 <v t="leo.20190108125606.1" a="E"><vh>w1</vh>
 <v t="leo.20190108125606.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20190108130436.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130436.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130438.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130438.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130505.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130505.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130507.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130507.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130508.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130508.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130509.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130509.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130511.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130511.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130512.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130512.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130517.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130517.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130520.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130520.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130521.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130521.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130523.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130523.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130524.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130524.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130526.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130526.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130527.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130527.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130529.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130529.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20190108130530.1" a="E"><vh>w1</vh>
+<v t="leo.20190108130530.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -357,7 +408,264 @@ make.start()
 						
 </t>
 <t tx="leo.20190108125606.2">## week1
-* http和https重要性
+上課須要用到筆記本和隨身碟，並且隨時記錄上課時的重點，期中期末時自己評分。
+上課需要用到http://mde.tw/#/
+github:https://github.com/
+
+
+
+
+</t>
+<t tx="leo.20190108130436.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130436.2">## week2
+* 使用sharex並且加以錄製
+了解sharex的基本功能能夠錄製gif或者影片檔
+
+
+
+</t>
+<t tx="leo.20190108130438.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130438.2">## week3
+
+
+
+
+</t>
+<t tx="leo.20190108130505.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130505.2">## week4
+
+
+
+
+</t>
+<t tx="leo.20190108130507.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130507.2">## week5
+
+
+
+
+</t>
+<t tx="leo.20190108130508.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130508.2">## week6
+
+
+
+</t>
+<t tx="leo.20190108130509.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130509.2">## week7
+
+
+
+
+</t>
+<t tx="leo.20190108130511.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130511.2">## week8
+
+
+
+
+</t>
+<t tx="leo.20190108130512.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130512.2">## week10
+
+
+
+
+</t>
+<t tx="leo.20190108130517.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130517.2">## week11
+
+
+
+
+</t>
+<t tx="leo.20190108130520.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130520.2">## week12
+
+
+
+
+</t>
+<t tx="leo.20190108130521.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130521.2">## week13
+
+
+
+
+</t>
+<t tx="leo.20190108130523.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130523.2">## week14
+
+
+
+
+</t>
+<t tx="leo.20190108130524.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130524.2">## week15
+
+
+
+
+</t>
+<t tx="leo.20190108130526.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130526.2">## week16
+
+
+
+</t>
+<t tx="leo.20190108130527.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130527.2">## 補課一
+
+
+
+
+</t>
+<t tx="leo.20190108130529.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130529.2">## 補課二
+
+
+
+
+</t>
+<t tx="leo.20190108130530.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190108130530.2">## 補課三
+
 
 
 
