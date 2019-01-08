@@ -503,8 +503,9 @@ https://youtu.be/3MgUkv3XsUI
 						
 </t>
 <t tx="leo.20190108130509.2">## week7
-
-
+# 網誌和遠端之概念
+如何去開啟編輯網誌的檔案和開啟遠端的方式。
+遠端由近端8443所推送後經由git add . git commit git push後得到遠端8444之資料。
 
 
 </t>
@@ -518,7 +519,8 @@ https://youtu.be/3MgUkv3XsUI
 						
 </t>
 <t tx="leo.20190108130511.2">## week8
-
+# github發生問題改用fossil最為備案
+fossil官方網站：https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki
 
 
 
