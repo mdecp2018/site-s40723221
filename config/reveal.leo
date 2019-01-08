@@ -474,7 +474,8 @@ windows7生命週期的結束也迎來了windows10的興盛，windows7再過了 
 						
 </t>
 <t tx="leo.20190108130507.2">## week5
-
+# 更改網誌
+https://youtu.be/3MgUkv3XsUI
 
 
 
@@ -489,9 +490,8 @@ windows7生命週期的結束也迎來了windows10的興盛，windows7再過了 
 						
 </t>
 <t tx="leo.20190108130508.2">## week6
-
-
-
+# reveal和git
+更新reveal和精熟git的用法和版本回推的知識
 </t>
 <t tx="leo.20190108130509.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
